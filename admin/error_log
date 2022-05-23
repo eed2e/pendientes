@@ -1,0 +1,43 @@
+[16-May-2022 23:36:10 UTC] PHP Notice:  Undefined index: aa in /home/digital/public_html/tareas/admin/nav.php on line 4
+[16-May-2022 23:36:10 UTC] PHP Notice:  Undefined index: nn in /home/digital/public_html/tareas/admin/nav.php on line 46
+[16-May-2022 23:36:10 UTC] PHP Notice:  Undefined index: nn in /home/digital/public_html/tareas/admin/nav.php on line 134
+[17-May-2022 17:29:40 UTC] PHP Notice:  Undefined index: aa in /home/digital/public_html/tareas/admin/nav.php on line 4
+[17-May-2022 17:29:40 UTC] PHP Notice:  Undefined index: nn in /home/digital/public_html/tareas/admin/nav.php on line 46
+[17-May-2022 17:29:40 UTC] PHP Notice:  Undefined index: nn in /home/digital/public_html/tareas/admin/nav.php on line 134
+[17-May-2022 18:02:46 UTC] PHP Notice:  Undefined index: aa in /home/digital/public_html/tareas/admin/nav.php on line 4
+[17-May-2022 18:02:46 UTC] PHP Notice:  Undefined index: nn in /home/digital/public_html/tareas/admin/nav.php on line 46
+[17-May-2022 18:02:46 UTC] PHP Notice:  Undefined index: nn in /home/digital/public_html/tareas/admin/nav.php on line 134
+[17-May-2022 18:52:57 UTC] PHP Notice:  Undefined index: id_pendientes in /home/digital/public_html/tareas/admin/nuevo_usuario.php on line 77
+[17-May-2022 18:53:00 UTC] PHP Notice:  Undefined index: id_pendientes in /home/digital/public_html/tareas/admin/nuevo_usuario.php on line 77
+[17-May-2022 19:11:52 UTC] PHP Notice:  Undefined index: id_pendientes in /home/digital/public_html/tareas/admin/nuevo_usuario.php on line 77
+[17-May-2022 19:11:52 UTC] PHP Notice:  Undefined index: id_pendientes in /home/digital/public_html/tareas/admin/modales/editar.php on line 2
+[17-May-2022 19:11:52 UTC] PHP Notice:  Undefined index: id_pendientes in /home/digital/public_html/tareas/admin/modales/editar.php on line 13
+[17-May-2022 19:11:52 UTC] PHP Notice:  Undefined index: titulo in /home/digital/public_html/tareas/admin/modales/editar.php on line 15
+[17-May-2022 19:11:52 UTC] PHP Notice:  Undefined index: descripcion in /home/digital/public_html/tareas/admin/modales/editar.php on line 19
+[17-May-2022 19:12:22 UTC] PHP Warning:  require(modales/editar_usuario.php): failed to open stream: No such file or directory in /home/digital/public_html/tareas/admin/nuevo_usuario.php on line 82
+[17-May-2022 19:12:22 UTC] PHP Warning:  require(modales/editar_usuario.php): failed to open stream: No such file or directory in /home/digital/public_html/tareas/admin/nuevo_usuario.php on line 82
+[17-May-2022 19:12:22 UTC] PHP Fatal error:  require(): Failed opening required 'modales/editar_usuario.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/digital/public_html/tareas/admin/nuevo_usuario.php on line 82
+[17-May-2022 19:12:27 UTC] PHP Warning:  require(modales/editar_usuario.php): failed to open stream: No such file or directory in /home/digital/public_html/tareas/admin/nuevo_usuario.php on line 82
+[17-May-2022 19:12:27 UTC] PHP Warning:  require(modales/editar_usuario.php): failed to open stream: No such file or directory in /home/digital/public_html/tareas/admin/nuevo_usuario.php on line 82
+[17-May-2022 19:12:27 UTC] PHP Fatal error:  require(): Failed opening required 'modales/editar_usuario.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/digital/public_html/tareas/admin/nuevo_usuario.php on line 82
+[17-May-2022 19:12:38 UTC] PHP Notice:  Undefined index: id_pendientes in /home/digital/public_html/tareas/admin/nuevo_usuario.php on line 77
+[17-May-2022 19:12:38 UTC] PHP Notice:  Undefined index: id_pendientes in /home/digital/public_html/tareas/admin/modales/editar.php on line 2
+[17-May-2022 19:12:38 UTC] PHP Notice:  Undefined index: id_pendientes in /home/digital/public_html/tareas/admin/modales/editar.php on line 13
+[17-May-2022 19:12:38 UTC] PHP Notice:  Undefined index: titulo in /home/digital/public_html/tareas/admin/modales/editar.php on line 15
+[17-May-2022 19:12:38 UTC] PHP Notice:  Undefined index: descripcion in /home/digital/public_html/tareas/admin/modales/editar.php on line 19
+[17-May-2022 19:12:53 UTC] PHP Notice:  Undefined index: id_pendientes in /home/digital/public_html/tareas/admin/modales/editar.php on line 2
+[17-May-2022 19:12:53 UTC] PHP Notice:  Undefined index: id_pendientes in /home/digital/public_html/tareas/admin/modales/editar.php on line 13
+[17-May-2022 19:12:53 UTC] PHP Notice:  Undefined index: titulo in /home/digital/public_html/tareas/admin/modales/editar.php on line 15
+[17-May-2022 19:12:53 UTC] PHP Notice:  Undefined index: descripcion in /home/digital/public_html/tareas/admin/modales/editar.php on line 19
+[17-May-2022 19:13:07 UTC] PHP Warning:  require(modales/editar_usuario.php): failed to open stream: No such file or directory in /home/digital/public_html/tareas/admin/nuevo_usuario.php on line 82
+[17-May-2022 19:13:07 UTC] PHP Warning:  require(modales/editar_usuario.php): failed to open stream: No such file or directory in /home/digital/public_html/tareas/admin/nuevo_usuario.php on line 82
+[17-May-2022 19:13:07 UTC] PHP Fatal error:  require(): Failed opening required 'modales/editar_usuario.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/digital/public_html/tareas/admin/nuevo_usuario.php on line 82
+[17-May-2022 20:20:40 UTC] PHP Notice:  Undefined index: aa in /home/digital/public_html/tareas/admin/nav.php on line 4
+[17-May-2022 20:20:40 UTC] PHP Notice:  Undefined index: nn in /home/digital/public_html/tareas/admin/nav.php on line 46
+[17-May-2022 20:20:40 UTC] PHP Notice:  Undefined index: nn in /home/digital/public_html/tareas/admin/nav.php on line 134
+[17-May-2022 21:18:01 UTC] PHP Notice:  Undefined index: aa in /home/digital/public_html/tareas/admin/nav.php on line 4
+[17-May-2022 21:18:01 UTC] PHP Notice:  Undefined index: nn in /home/digital/public_html/tareas/admin/nav.php on line 46
+[17-May-2022 21:18:01 UTC] PHP Notice:  Undefined index: nn in /home/digital/public_html/tareas/admin/nav.php on line 134
+[18-May-2022 14:48:59 UTC] PHP Notice:  Undefined index: aa in /home/digital/public_html/tareas/admin/nav.php on line 4
+[18-May-2022 14:48:59 UTC] PHP Notice:  Undefined index: nn in /home/digital/public_html/tareas/admin/nav.php on line 46
+[18-May-2022 14:48:59 UTC] PHP Notice:  Undefined index: nn in /home/digital/public_html/tareas/admin/nav.php on line 134
